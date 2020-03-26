@@ -1,1 +1,2 @@
-king is black sheep£¬is me
+king is black sheep,is me
+I am in knight.
